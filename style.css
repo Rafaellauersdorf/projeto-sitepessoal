@@ -5,7 +5,7 @@ body {
     background-color: rgb(225, 225, 238);
 }
 header  {
-    background-image: linear-gradient(to bottom, rgb(61, 75, 207),rgb(0, 0, 90));
+    background-image: url('https://i.pinimg.com/736x/62/e0/66/62e0661393303ba6baaa49ecbce2ce5e.jpg');
     padding: 20px;
     padding-top: 30px;
     padding-bottom: 25px;
@@ -14,9 +14,8 @@ header  {
     min-width: 395px;
     max-width: 2200px;
     min-height: 150px;
-    
-    
-       
+    background-size: cover;
+          
 }
 header h1 {
     font-size: 3em;
@@ -90,4 +89,7 @@ footer p {
 }
 footer strong {
     font-size: larger;
+}
+.foto {
+    display: inline;
 }
