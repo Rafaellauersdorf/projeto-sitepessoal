@@ -6,6 +6,7 @@ body {
 }
 header  {
     background-image: url('https://i.pinimg.com/736x/62/e0/66/62e0661393303ba6baaa49ecbce2ce5e.jpg');
+    background-size: cover;
     padding: 20px;
     padding-top: 30px;
     padding-bottom: 25px;
@@ -14,7 +15,7 @@ header  {
     min-width: 395px;
     max-width: 2200px;
     min-height: 150px;
-    background-size: cover;
+    
           
 }
 header h1 {
@@ -27,13 +28,13 @@ header h1 {
 }
 header h2 {
     color: white;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.308);
 }
 
 
 header img {
     float: right;
-    display: block;
-    margin:5px;
+    margin:-27px;
 }
 
 
