@@ -72,6 +72,7 @@ main {
 main h2 {
     background-image: linear-gradient(to right, blue, transparent);
     color: white;
+    border-radius: 0px 5px 0px 5px;
 }
 main p {
     margin: 15px 0px;
@@ -84,6 +85,8 @@ main p {
 
 footer {
     background-color: rgb(193, 191, 216);
+    box-shadow: rgba(0, 0, 0, 0.11);
+    border-radius: 5px 0px 5px 0px;
 }
 footer p {
     font-weight: bold;
