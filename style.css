@@ -96,4 +96,6 @@ footer strong {
 }
 .foto {
     display: inline;
+    margin: -5px;
+    
 }
